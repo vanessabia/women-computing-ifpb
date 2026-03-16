@@ -114,21 +114,21 @@ def gerar_tabela_e_grafico(col_valor, nome_base, titulo, ylabel):
 gerar_tabela_e_grafico(
     col_matriculas,
     "sexo_matriculas",
-    "Matrículas por sexo ao longo dos anos (IFPB)",
+    "Matrículas por sexo ao longo dos anos",
     "Número de matrículas"
 )
 
 gerar_tabela_e_grafico(
     col_ingressantes,
     "sexo_ingressantes",
-    "Ingressantes por sexo ao longo dos anos (IFPB)",
+    "Ingressantes por sexo ao longo dos anos",
     "Número de ingressantes"
 )
 
 gerar_tabela_e_grafico(
     col_concluintes,
     "sexo_concluintes",
-    "Concluintes por sexo ao longo dos anos (IFPB)",
+    "Concluintes por sexo ao longo dos anos",
     "Número de concluintes"
 )
 
